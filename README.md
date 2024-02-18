@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **computer science engineering**
 
-- 💬 Ask me about **Javascript, React**
+- 💬 Ask me about **MERN Stack**
 
 - ⚡ Fun fact **I think I'm a Developer**
  
