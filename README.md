@@ -43,4 +43,3 @@
 
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=C0dewithLokesh&theme=react" >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dewithLokesh&theme=react)](https://github.com/tidbitsjs/github-readme-stats)
