@@ -1,0 +1,19 @@
+  "name": "C0dewithLokesh",
+  "version": "0.0.0",
+  "description": "just my intro",
+  "main": "cli.js",
+  "bin": "cli.js",
+  "files": ["cli.js"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C0dewithLokesh/C0dewithLokesh.git"
+  },
+  "keywords": [
+    "aboutme"
+  ],
+  "author": "Lokesh Kaushik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C0dewithLokesh/C0dewithLokesh/issues"
+  },
+  "homepage": "https://github.com/C0dewithLokesh/C0dewithLokesh#readme"
