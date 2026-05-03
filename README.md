@@ -1,6 +1,6 @@
 # Hi, I'm Lokesh 👋🏽
 
-👨🏻‍💻 Check out my [portfolio](https://c0dewithlokesh-portfolio.vercel.app/) to learn more about me.
+👨🏻‍💻 Check out my [portfolio](lokeshkaushik.dev) to learn more about me.
 
 ## 🧰 Languages and Tools
 
